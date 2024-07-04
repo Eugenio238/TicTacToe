@@ -43,7 +43,7 @@ import {ref,computed} from 'vue'
         ['','',''],
    ]);
 
-
+//premier comit
  const CalculateWinner = (squares) => {
 
     //on defini un tableau contenant toutes les lignes,colonnes,diagonales 
